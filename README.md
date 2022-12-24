@@ -8,6 +8,8 @@ Use community Board or Blog!
 커뮤니티 게시판 또는 블로그를 스스로 개설할 수 있는 만능 BBS!
 
 Please contact to joowonlee0704@gmail.com or alexleejw.com 
+
+
 문의는 joowonlee0704@gmail.com 또는 alexleejw.com 으로 연락 바랍니다.
 ========
 설치방법:http://alexleejw.com/board/board-softwarehardwarefreeother/list/1 에 들어가서 알렉보드 사용방법 클릭!
