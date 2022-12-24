@@ -31,8 +31,8 @@ board 폴더에 있는 ALECBOARD 파일들을 board 폴더 없이 FTP&SFTP(즉, 
 (board 폴더에 ALECBOARD 파일을 넣고 index.php를 추가하여 바로 접속할 수 있게 해결.)
 
 기능 개선:
+모바일&PC를 구별하여 모바일은 모바일 버전, PC는 PC 버전으로 보여지게 설정함.
 
-X
 
 
 V1.0.1: 버그 개선
